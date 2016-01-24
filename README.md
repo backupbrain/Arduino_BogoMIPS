@@ -40,10 +40,10 @@ Notable Ratings
 | _i886 (Reference)_  | _25_  | _4.5_  | _clock * 0.18_  | _1_   |
 
 
-| System  | Speed (MHz) | BogoMIPS | Rating | Index |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+System  | Speed (MHz) | BogoMIPS | Rating | Index
+------------- | ------------- | ------------- | ------------- | ------------- 
+Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  
+Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell 
 
 First Header  | Second Header
 ------------- | -------------
