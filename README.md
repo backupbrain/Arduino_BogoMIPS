@@ -32,11 +32,6 @@ For more information about BogoMIPS, see: https://en.wikipedia.org/wiki/BogoMips
 Notable Ratings
 ================
 
-| System  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
 | System  | Speed (MHz)  | BogoMIPS  | Rating  | Index  | 
 | ------------- | ------------- |
 | Arduino UNO         | 16    | 16.5   | clock * 1.04    | 5.75  |
