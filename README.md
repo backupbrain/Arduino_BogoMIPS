@@ -45,6 +45,11 @@ Notable Ratings
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
+
 History and Usage
 ==================
 BogoMIPS (Bogus Millions of Instructions Per Second) is the number of times a processor can execute a null instruction in a second.  They are rated against both the CPU speed (typically in mHz) and a known CPU, the i386.
