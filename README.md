@@ -42,8 +42,8 @@ Notable Ratings
 
 System  | Speed (MHz) | BogoMIPS | Rating | Index
 ------------- | ------------- | ------------- | ------------- | ------------- 
-Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  
-Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell 
+Arduino UNO | Content Cell  | Content Cell  | Content Cell  | Content Cell  
+nRF51:822  | Content Cell  | Content Cell  | Content Cell  | Content Cell 
 
 First Header  | Second Header
 ------------- | -------------
