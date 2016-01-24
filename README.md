@@ -38,6 +38,7 @@ Notable Ratings
 | Content Cell  | Content Cell  |
 
 | System | Speed (MHz) | BogoMIPS | Rating | Index | 
+| ------------- | ------------- |
 | Arduino UNO | 16 | 16.5 | clock * 1.04 | 5.75 |
 | nRF51:822 | 16 | 2.24 | clock *  0.14 | 0.78 |
 | ESP8266 | 80 | 15.9 | clock * 0.919 | 1.10 |
