@@ -39,6 +39,12 @@ Notable Ratings
 | ESP8266             | 80    | 15.9   | clock * 0.919   | 1.10  |
 | _i886 (Reference)_  | _25_  | _4.5_  | _clock * 0.18_  | _1_   |
 
+
+| System  | Speed (MHz) | BogoMIPS | Rating | Index |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 History and Usage
 ==================
 BogoMIPS (Bogus Millions of Instructions Per Second) is the number of times a processor can execute a null instruction in a second.  They are rated against both the CPU speed (typically in mHz) and a known CPU, the i386.
