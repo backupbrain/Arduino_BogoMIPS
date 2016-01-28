@@ -6,6 +6,7 @@ It provides a very crude rating for how efficient a processor is.
 
 Processors execute tasks at different speeds.  Per CPU cycle, some processors are more efficient than others, and BogoMIPS is a way of estimating that efficiency.
 
+This code is explained in a blog article entitled [BogoMips Calculation on Arduino](http://tonygaitatzis.tumblr.com/post/137917915152/bogomips-calculation-on-arduino)
 
 Example Output:
 ===============
